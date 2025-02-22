@@ -1,0 +1,5 @@
+Path,label
+/Users/suraj/PycharmProjects/Brain_Tumor_Prediction/Training\glioma_tumor,glioma_tumor
+/Users/suraj/PycharmProjects/Brain_Tumor_Prediction/Training\meningioma_tumor,meningioma_tumor
+/Users/suraj/PycharmProjects/Brain_Tumor_Prediction/Training\no_tumor,no_tumor
+/Users/suraj/PycharmProjects/Brain_Tumor_Prediction/Training\pituitary_tumor,pituitary_tumor
