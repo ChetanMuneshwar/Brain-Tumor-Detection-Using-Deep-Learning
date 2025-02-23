@@ -15,7 +15,6 @@ V. Model evaluation with accuracy, precision, and recall metrics
 
 Models:
 System is divided into 5 model.
-![image](https://github.com/user-attachments/assets/71ee7ea9-afa9-4b28-a16e-4a91793d484d)
 I. Dataset: In dataset we can take multiple MRI images and take one as input image.
 
 II. Pre-processing: In pre-processing image to encoded the label and resize the image.
