@@ -1,15 +1,15 @@
-To Execute Project We need to use the Given Python programs:
+<b>To Execute Project We need to use the Given Python programs:</b>
 
-home.py
+<b>home.py</b>
 
-preprocessing.py (This program used for preprocessing the data) 
+<b>preprocessing.py</b> (This program used for preprocessing the data) 
 
-cnn.py (this program used to train and test the dataset)
+<b>cnn.py</b> (this program used to train and test the dataset)
 
-cnnacc.py (this program is used to accuracy)
+<b>cnnacc.py</b> (this program is used to accuracy)
 
-app.py
+<b>app.py</b>
 
-We Run this project on pycharm IDE.
+**We Run this project on pycharm IDE.**
 
-*please Install Necessary Libraries To run the project*
+**please Install Necessary Libraries To run the project**
