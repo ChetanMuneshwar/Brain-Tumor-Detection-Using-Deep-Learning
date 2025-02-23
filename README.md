@@ -14,7 +14,9 @@ IV. Dataset handling and augmentation techniques
 V. Model evaluation with accuracy, precision, and recall metrics
 
 Models:
+
 System is divided into 5 model.
+
 I. Dataset: In dataset we can take multiple MRI images and take one as input image.
 
 II. Pre-processing: In pre-processing image to encoded the label and resize the image.
