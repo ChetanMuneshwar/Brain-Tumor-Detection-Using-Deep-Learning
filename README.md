@@ -1,7 +1,7 @@
-Brain Tumor Detection Using Deep Learning
+<b><i>Brain Tumor Detection Using Deep Learning</i></b>
 This repository contains a deep learning-based approach for brain tumor detection using medical imaging. The project leverages convolutional neural networks (CNNs) to classify MRI scans as tumor or non-tumor, providing an automated and efficient method for early diagnosis.
 
-features:
+<b>features: </b>
 
 I. Preprocessing of MRI images for enhanced model performance.
 
@@ -28,7 +28,7 @@ IV. Build CNN model: To train Deep Neural network for classification.
 V. Classification: Used to classify the Brain tumor.
 
 
-Usage:
+<b>Usage:</b>
 
 I. Install the required dependencies
 
@@ -38,5 +38,5 @@ III. Train the deep learning model
 
 Iv. Evaluate performance and visualize predictions
 
-Contributing:
+<b>Contributing:</b>
 This project aims to assist in medical diagnostics by improving tumor detection accuracy through AI-driven solutions. Contributions and improvements are welcome!
