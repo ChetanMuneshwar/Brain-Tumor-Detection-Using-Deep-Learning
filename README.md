@@ -13,7 +13,7 @@ IV. Dataset handling and augmentation techniques
 
 V. Model evaluation with accuracy, precision, and recall metrics
 
-Models:
+<b>Models:</b>
 
 System is divided into 5 model.
 
