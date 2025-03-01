@@ -1,4 +1,4 @@
-<b>To Execute Project We need to use the Given Python programs:</b>
+<b>To Execute Project We need to use all the Given Python programs:</b>
 
 <b>I. home.py</b>
 
